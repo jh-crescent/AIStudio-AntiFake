@@ -1,15 +1,15 @@
-# AI-Studio-项目标题
+# 飞桨常规赛：点击反欺诈-5月第2名方案
 
 ## 项目描述
-简要描述项目
+项目及数据来源：https://aistudio.baidu.com/aistudio/competition/detail/52
 
 ## 项目结构
 ```
--|data
--|work
+-|notebook
+--|generateTrainData.ipynb
+--|modelCons.ipynb
+-|processData
 -README.MD
--xxx.ipynb
 ```
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
-B：此处由项目作者进行撰写使用方式。
+从飞桨常规赛官网下载完数据之后，依次执行generateTrainData.ipynb和modelCons.ipynb即可(注意修改数据路径)
