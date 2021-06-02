@@ -1,6 +1,5 @@
-paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+numpy
+pandas
+matplotlib
+sklearn
+paddlepaddle 2.0+
