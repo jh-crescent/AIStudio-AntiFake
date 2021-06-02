@@ -1,0 +1,2 @@
+本文件夹存放的是运行generateTrainData.ipynb之后生成的训练数据
+可以使用本文件夹下的数据直接运行modelCons.ipynb
